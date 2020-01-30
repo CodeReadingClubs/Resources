@@ -1,6 +1,6 @@
 # Code reading club
 
-This is an experiment inspired by the research and teaching excercises designed by Felienne Hermans. At its core is the idea that the paradigm we use to teach programming is flawed. One of the most obvious ommissions is the ability to read code, bth phoneticlly and analytically. We aren't suitably equiping ourselves with these building blocks.
+This is an experiment inspired by research and teaching excercises designed by [Felienne Hermans](https://www.felienne.com). At its core is the idea that the paradigm we use to teach programming is flawed. One of the most obvious ommissions is the ability to read code, bth phoneticlly and analytically. We aren't suitably equiping ourselves with these building blocks.
 
 ## The Plan
 We run the club initially for 6-8 weeks. Hopefully we find it so useful that we don't want to stop. We meet for 1 hour every other week. Sometimes there is optional prep in the form of reading, that participants can choose to do as homework outside that time.
