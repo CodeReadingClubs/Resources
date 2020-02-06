@@ -15,7 +15,7 @@ You will need:
 - some graph paper - or coloured paper and scissors - or acetate and something to write on it with
 - coloured pens, crayons or pencils
 
-### Read  code files (8mins) 
+### Read  code files (8mins)
 This week we had 4 files
 
 ### Discuss code files (12mins)
@@ -66,7 +66,7 @@ Votes by line number: count
 - where are side effects
 - using the patients string in 2 places near each other looks like var but was a translation string
 - dispatch event important
-- people who writing react a lot took export for granted
+- people who write react a lot took export for granted
 - people not as familiar with react went there first
 - agree that the core markup generator of patient list item and the side effects most important to understand
 - thoughts around what is important when reading vs writing the code
@@ -79,6 +79,7 @@ Votes by line number: count
 ### What worked badly
 - ran out of time
 - taking notes and facilitating at the same time
+- experienced developers were doing most of the talking
 
 ## Follow up (2 weeks of elapsed time)
 - Identify code for next session, keeping in mind Wash up and Reflection information
