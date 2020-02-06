@@ -1,6 +1,6 @@
 # Code Reading Club agenda
 
-## Reflection (5 mins)
+## Reflection (10 mins)
 - Note a time the past 2 weeks when you used one of the techniques from the club in your work
 - Note a time the past 2 weeks when you used information learned about code in your work
 
@@ -18,7 +18,7 @@ You will need:
 ### Read  code files (8mins) 
 This week we had 4 files
 
-### Discuss code files (8mins)
+### Discuss code files (12mins)
 Comments helpful and informative - is that right to look at them?
 Testing a hypothesis - will the tests tell me what the code is supposed to do
 There were a lot of tests - seems like they were tesing the API not only their own
@@ -54,7 +54,22 @@ mailgun vs appengine - do they build on each other
 - lines covered by many people?
 - lines named but not by a lot of people
 - Agree less than 10 of the most important lines
-Todo -add tally
+
+Votes by line number: count
+7, 17, 18, 28, 41, 45, 50, : 1
+11, 19, 23: 2
+47: 3
+34, 75: 4
+
+#### Some notes in conversation
+- history wasn't history of patients, but browser history - this is an example of convention we take for granted
+- where are side effects
+- using the patients string in 2 places near each other looks like var but was a translation string
+- dispatch event important
+- people who writing react a lot took export for granted
+- people not as familiar with react went there first
+- agree that the core markup generator of patient list item and the side effects most important to understand
+- thoughts around what is important when reading vs writing the code
 
 ## Wash up (independent after session)
 ### What worked well
