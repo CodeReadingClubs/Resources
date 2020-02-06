@@ -15,7 +15,10 @@ You will need:
 - some graph paper - or coloured paper and scissors - or acetate and something to write on it with
 - coloured pens, crayons or pencils
 
-### Read (8mins) 
+### Read  code files (8mins) 
+This week we had 4 files
+
+### Discuss code files (8mins)
 Comments helpful and informative - is that right to look at them?
 Testing a hypothesis - will the tests tell me what the code is supposed to do
 There were a lot of tests - seems like they were tesing the API not only their own
@@ -25,17 +28,23 @@ lookslike it is in the way but you get used to it
 multiline comments and strings use same syntax - not a problem because of indenting
 mailgun vs appengine - do they build on each other
 
-### Discuss (8mins)
-
 ### Exercise Interaction with code (10 mins)
 1. Colour1 the variables - circle and draw links between instatiation and all uses
 1. Colour2 the method/ function calls - circle and draw links between declarations and calls
 1. Colour3 the classes - circle and draw links between classes and their instances
-1. Draw the indentaiton patterns - There are a few ways to do this. Fill over with black sharpie. Trace on graph paper. Trace on acetate. etc?
 
 #### Discuss the results (10 mins)
-1. What patterns are visible from the colors and indentations only?
-1. What parts of the code warrant more attention based on the colors and indentation?
+1. What patterns are visible from the colors?
+1. What parts of the code warrant more attention based on the colors?
+- Confused me more than last week
+- was expecting to be procedureal but ended up looking like circles
+- wanted to visualise output but didn't have time
+- variables/ constants turned out to be functions
+- we couldn't find any classes but sometimes under the hood some might be intantiated as objects
+- traditional CSc model of oop but this code feels more aiming for pure functional
+- using typescript but not types
+- uses known and understood conventions (like use- and set-) but this is by practice/ convention and not obvious to new people to write this way
+- found myself drawing flux / redux cycles on the page
 
 ### Content
 
