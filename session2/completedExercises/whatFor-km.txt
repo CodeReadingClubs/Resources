@@ -1,6 +1,0 @@
-Base utility classes for google app engine API email functions with specific rules
-Functions for sending mail using mailgun in bulk
-Tests for the gae services
-Tests for the mailgun services
-
-
