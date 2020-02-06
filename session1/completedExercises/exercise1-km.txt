@@ -1,0 +1,7 @@
+Note model/ object
+CentreUser model that can have notes.
+Family model that can have notes.
+Creates the data store for the Note
+Tests for the CentreUser-Note relationship. No tests for Family.
+
+Curiously - the Note is never used in the app.
