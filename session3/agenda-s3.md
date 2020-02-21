@@ -29,13 +29,14 @@ You will need:
 #### Discuss the results (10 mins) 12:52
 1. What patterns are visible from the colors and indentations only?
 1. What parts of the code warrant more attention based on the colors and indentation?
-Identation shows that import inside of the function. I'm used to languages where imports happen at top of file.
-Import works wherever you use it in python. Like require in js.
-Indentation level scopes stuff the block of code
-Comment very noisy compared to the code
-Looks like it's inside a REPL
-Doc test library needs the syntax for parsing
-Confused me at first - thought it was the code
+
+- Identation shows that import inside of the function. I'm used to languages where imports happen at top of file.
+- Import works wherever you use it in python. Like require in js.
+- Indentation level scopes stuff the block of code
+- Comment very noisy compared to the code
+- Looks like it's inside a REPL
+- Doc test library needs the syntax for parsing
+- Confused me at first - thought it was the code
 
 ### Content
 
@@ -43,23 +44,26 @@ Confused me at first - thought it was the code
 1. Define what it means to be important and independently identify the 3 lines you consider most important
 1. Discuss in the group:
 - lines covered by many people?
+46 (4 people) and 47 (3 people)
 - lines named but not by a lot of people
-- Agree less than 10 of the most important lines
+10, 37, 48, 49 (2 people) and 52,53 (1 person)
+- Agree less than 7 of the most important lines
+- 46, 47, 38, 40, 42 - interestingly when we only had 3 lines to choose independently, no one chose 38,40,42
 
 #### Discuss (10 mins) 13:20
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
 
-Form is confusing because I don't know python
-I'm a beginner and it doesn't match what I know about python. Is a mess.
-If it didn't have the if block for floats, would not need to import all of `math`
-I like lots of code examples in file don't always see that
-Big numbers in python 300 zeros behind one number
-Python is lovely for big numbers
-You can have too much tests in your comments
-Impression that formatting of comments is not consistant with the """ on same line at start and new line at end.
-There's only one inline comment (catch the big number by using n+1 ==n)
-Now I understand why we have colour coding in our IDEs
+- Form is confusing because I don't know python
+- I'm a beginner and it doesn't match what I know about python. Is a mess.
+- If it didn't have the if block for floats, would not need to import all of `math`
+- I like lots of code examples in file don't always see that
+- Big numbers in python 300 zeros behind one number
+- Python is lovely for big numbers
+- You can have too much tests in your comments
+-Impression that formatting of comments is not consistant with the """ on same line at start and new line at end.
+- There's only one inline comment (catch the big number by using n+1 ==n)
+- Now I understand why we have colour coding in our IDEs
 
 #### Summarize in less than 10 sentences (10 mins) SKIPPED
 1. Independently write down the essence of the code in a few sentences
@@ -72,18 +76,18 @@ Now I understand why we have colour coding in our IDEs
 
 
 ## Wash up (5 mins) 13:27
-- What worked well
-This is a sufficiently sized example to have a crack at in the time we have
-Amazing that we had an interesting conversation about simpole bit of code
-Conversation is more about what it is doing and the structure rather than talking about the code syntax line by line (outputs/ comments/ it's messy/ it's noisy not this is a class and how we write it, etc.)
-python which is what I am learaning anyway
+### What worked well
+- This is a sufficiently sized example to have a crack at in the time we have
+- Amazing that we had an interesting conversation about simpole bit of code
+- Conversation is more about what it is doing and the structure rather than talking about the code syntax line by line (outputs/ comments/ it's messy/ it's noisy not this is a class and how we write it, etc.)
+- python which is what I am learaning anyway
 
-- What worked badly
-The second bit of code (test output) wasn't looked at
-Is as important and as hard to read as the comments
-We talked about the wrong part of the code, not the interesting part
-we didn't talk about method, class, variable this time
-Not prepared for today - in a sprint week
+### What worked badly
+- The second bit of code (test output) wasn't looked at
+- Is as important and as hard to read as the comments
+- We talked about the wrong part of the code, not the interesting part
+- we didn't talk about method, class, variable this time
+- Not prepared for today - in a sprint week
 
 Finish 13:35
 
