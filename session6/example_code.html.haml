@@ -1,44 +1,98 @@
-- title t('workshop.title', host: @workshop.host.name, date: humanize_date(@workshop.date_and_time))
+.icon-bar.seven-up
+  = link_to edit_admin_workshop_path(@workshop), class: 'item' do
+    %i.fa.fa-pencil
+    %label Edit
+  - if !@workshop.date_and_time.future?
+    = link_to '#', class: 'item disabled', title: 'The event has already taken place' do
+      %i.fa.fa-send-o
+      %label Invite
+  - elsif (@workshop.has_valid_host? || @workshop.virtual?) and @workshop.invitable?
+    = link_to admin_workshop_send_invites_path(@workshop), class: 'item' do
+      %i.fa.fa-send-o
+      %label Invite
+  - else
+    = link_to '#', class: 'item disabled', title: t('admin.workshop.not_invitable.') do
+      %i.fa.fa-send-o
+      %label Invite
+  = link_to admin_workshop_path(format: 'csv'), class: 'item', title: 'CSV for pairing' do
+    %i.fa.fa-users
+    %label Pairing CSV
+  = link_to admin_workshop_path(type: 'labels', format: 'csv'), class: 'item', title: 'CSV for labels' do
+    %i.fa.fa-users
+    %label Labels
+  = link_to admin_workshop_attendees_checklist_path(@workshop, format: 'text'), title: 'Attendee checklist', class: 'item' do
+    %i.fa.fa-list-ul
+    %label Attendees
+  = link_to admin_workshop_attendees_emails_path(@workshop, format: 'text'), title: 'Attendee emails', class: 'item' do
+    %i.fa.fa-at
+    %label Emails
+  = link_to admin_workshop_path(@workshop), method: :delete, data: { confirm: 'Are you sure you want to delete this workshop?' }, title: 'Destroy workshop', class: 'item' do
+    %i.fa.fa-remove
+    %label Destroy
 
-= render partial: 'meta_tags', locals: { workshop: @workshop }
 
-.stripe.reverse
-  .row
-    .large-12.columns
-      %h2
-        = t('workshops.title', host: @workshop.host.name)
-        %br
-        %small #{humanize_date(@workshop.date_and_time)} #{@workshop.distance_of_time}
-        #workshop-time.time
-          %i.material-icons
-            access_time
-          = @workshop.start_and_end_time
-      - if @workshop.date_and_time.past?
-        %label.label.warning This event has already taken place.
-  %section#banner
+%section
+  .stripe.reverse
     .row
       .medium-12.columns
-        %p.lead
-          = t("workshops.lead")
+        %h2
+          = @workshop.to_s
+          = link_to [:admin, @workshop.chapter] do
+            %small=@workshop.chapter.name
+        %h3
+          %small #{l(@workshop.date_and_time, format: :dashboard)} #{@workshop.start_and_end_time}
+        - if @workshop.rsvp_opens_at
+          RSVPs will open at
+          = @workshop.rsvp_opens_at.strftime('%H:%M on %d/%m/%Y.')
+          %br
+          %br
+        - if @workshop.venue.present? || @workshop.virtual?
+          %strong.label.round.primary #{@workshop.student_spaces} student spots, #{@workshop.coach_spaces} coach spots
+          - unless @workshop.spaces?
+            %label.label.round.warning Full
+        - if !@workshop.invitable?
+          %br
+          %p
+            %label.label.info= t('admin.workshop.not_invitable')
         %p.description
+          %br
           = sanitize(@workshop.description)
+    - if @workshop.virtual?
+      .row
+        .large-12.small-6.columns#slack-details
+          .panel.callout
+            %h5= t('admin.workshop.virtual.details.title')
+            %p
+              %strong="#{t('admin.workshop.virtual.details.slack')}:"
+              #{link_to("##{@workshop.slack_channel}", @workshop.slack_channel_link)}
+              %br
+              %strong="#{t('admin.workshop.virtual.details.discord')}:"
+              #{link_to(t('social_media_links.discord_invitation'), t('social_media_links.discord_invitation'))}
+              %br
+              %br
+              #{t('admin.workshop.virtual.details.more_html', slack_channel: link_to('#organisers', 'https://codebar.slack.com/archives/G08CQ5KFD'))}
 
-        - unless current_user and current_user.banned?
-          = render 'actions'
+    %br
+    .row
+      .large-3.small-6.columns#host
+        - if @workshop.venue.present?
+          %h4 Venue
+          %strong= @workshop.venue.name
+          %br
+          %small= @workshop.address.to_html
+      .large-3.small-6.columns#sponsors
+        - if (@workshop.sponsors - [@workshop.host]).any?
+          %h4 Sponsors
+          %ul.no-bullet
+            - (@workshop.sponsors - [@workshop.host]).each do |sponsor|
+              %li
+                %span
+                  = link_to sponsor.name, [:admin, sponsor]
+      .large-6.small-12.columns
+        %h4 Team
+        - @workshop.organisers.each do |organiser|
+          %span.has-tip{ 'data-tooltip': '', 'aria-haspopup': 'true',  title: organiser.full_name }
+            = image_tag(organiser.avatar(40), alt: organiser.full_name)
 
-.stripe.reverse
-  .row
-    = render partial: 'shared/venue', locals: { venue: @workshop.host, address: @workshop.address}
-
-    #sponsors
-      .small-12.column
-        %h3 Sponsors
-        %ul.row.no-bullet
-          - @workshop.sponsors.each do |sponsor|
-            %li.small-4.columns
-              = image_tag(sponsor.avatar, class: 'sponsor', alt: sponsor.name)
-              %p
-                = link_to sponsor.name, sponsor.website
-
-.stripe.reverse
-  = render partial: 'members/organisers_grid', locals: { members: @workshop.organisers, show_info: false }
+  .stripe.reverse#invitations
+    = render partial: 'invitation_management'
