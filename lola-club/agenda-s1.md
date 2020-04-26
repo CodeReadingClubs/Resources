@@ -1,5 +1,7 @@
 # Code Reading Club agenda
 
+## Club goals and expectations
+
 ## Exercises
 These exercises are best carried out when the code can fit on one or two pages.
 
@@ -44,3 +46,7 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 ## Wash up (5 mins)
 - What worked well
 - What worked badly
+
+## Reminder to note for reflection next session
+- Note a time the past 2 weeks when you used one of the techniques from the club in your work
+- Note a time the past 2 weeks when you used information learned about code in your work
