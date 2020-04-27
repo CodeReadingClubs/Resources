@@ -18,7 +18,8 @@
 ### Content
 
 #### Identify (10 mins)
-1. Define what it means to be important and independently identify the 5 lines you consider most important
+1. As a group breifly define what it means to be important and what constitues a line
+1. Independently identify the 5 lines you consider most important
 1. Discuss in the group:
 - lines covered by many people?
 - lines named but not by a lot of people
