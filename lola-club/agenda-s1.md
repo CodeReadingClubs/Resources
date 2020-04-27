@@ -1,6 +1,10 @@
 # Code Reading Club agenda
 
 ## Club goals and expectations
+- Intro code reading club concept
+- Intro people in the group including experience & types of programming
+- Set sessions. Frequency and length.
+- Discuss goals and expectations of group members
 
 ## Exercises
 These exercises are best carried out when the code can fit on one or two pages.
