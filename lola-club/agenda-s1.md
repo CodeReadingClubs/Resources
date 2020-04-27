@@ -6,15 +6,6 @@
 - Set sessions. Frequency and length.
 - Discuss goals and expectations of group members
 
-## Exercises
-These exercises are best carried out when the code can fit on one or two pages.
-
-You will need:
-- a printed copy of the code for today's club
-- coloured pens, crayons or pencils
---OR--
-- a digital copy of the code for today's club that you can scribble on
-
 ### Interaction with code (10 mins)
 1. Colour1 the variables - circle and draw links between instatiation and all uses
 1. Colour2 the method/ function calls - circle and draw links between declarations and calls
