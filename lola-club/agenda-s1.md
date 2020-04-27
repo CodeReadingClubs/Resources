@@ -38,11 +38,9 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 1. Compare the summary with the available documentation (inside and outside the code)
 - identify differences and similarities between the groups findings and the existing
 
-
 ## Wash up (5 mins)
 - What worked well
 - What worked badly
 
 ## Reminder to note for reflection next session
-- Note a time the past 2 weeks when you used one of the techniques from the club in your work
-- Note a time the past 2 weeks when you used information learned about code in your work
+- Between sessions, note times when you notice that code reading club has helped you in your other projects or conversations.
