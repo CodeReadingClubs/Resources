@@ -1,6 +1,7 @@
 # Code Reading Club agenda
+Code source: https://github.com/moment/moment/blob/develop/src/lib/create/from-anything.js
 
-## Reflection (5 mins)
+## Reminder to note for reflection next session
 - Between sessions, note times when you notice that code reading club has helped you in your other projects or conversations.
 
 ### Interaction with code (10 mins)
@@ -9,17 +10,16 @@
 1. Colour3 the classes - circle and draw links between classes and their instances
 
 #### Discuss the results (10 mins)
-1. What patterns are visible from the colors?
-1. What parts of the code warrant more attention based on the colors?
+1. What patterns are visible from the colors and indentations only?
+1. What parts of the code warrant more attention based on the colors and indentation?
 
 ### Content
 
 #### Identify (10 mins)
-1. If necessary, define / remind in group a meaning of importance
+1. As a group breifly define what it means to be important and what constitues a line
 1. Independently identify the 5 lines you consider most important
-1. Note down which line numbers people selected individually
 
-#### Discuss (15 mins)
+#### Discuss (10 mins)
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
 1. Discuss in the group:
