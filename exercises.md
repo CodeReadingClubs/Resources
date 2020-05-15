@@ -55,7 +55,7 @@ Instantiation
 
 ### Content
 
-####All variable/class/method names (5 mins)
+#### All variable/class/method names (5 mins)
 
 Go through the code mechanically and create a list of all identifier names in the snippet. Of you have done the "examine structure" exercise before, this should be relatively quick and easy.
 
@@ -67,7 +67,7 @@ Discuss in the group:
 * Which names are related to each other, from the names only?
 * Are there names that are ambiguous when looked at without context?
 
-####A random line (5 mins)
+#### A random line (5 mins)
 
 Select a random line from the code in whatever way you like. Examine this line individually. What is the main idea of this line? What lines does it relate to and why?
 
@@ -107,7 +107,7 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 
 These exercises are more advanced, in the sense that you might need a bit more understanding of the code for these to make sense. This might be because the group is familiar with the code before the session, or because you are doing a second club on the same code snippet.
 
-###Code structure
+### Code structure
 
 #### Examine structure (5 mins)
 
@@ -118,7 +118,7 @@ Use one of the basic exercises to examine the structure of the code (such as cir
 - Parts of the code covered by many vs few
 - Strategies used to decide 
 
-###Content
+### Content
 
 #### Central thematic concepts (5 mins)
 
