@@ -9,8 +9,8 @@
 1. Colour3 the classes - circle and draw links between classes and their instances
 
 #### Discuss the results (10 mins)
-1. What patterns are visible from the colors?
-1. What parts of the code warrant more attention based on the colors?
+1. What patterns are visible from the colors and connections?
+1. What parts of the code warrant more attention based on the colors and connections?
 
 ### Content
 
