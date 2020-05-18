@@ -2,14 +2,19 @@
 
 This is an experiment inspired by research and teaching excercises designed by [Felienne Hermans](https://www.felienne.com). At its core is the idea that the paradigm we use to teach programming is flawed. One of the most obvious ommissions is the ability to read code, both phoneticlly and analytically. We aren't suitably equiping ourselves with these building blocks.
 
-## The Plan
-We run the club initially for 6-8 weeks. Hopefully we find it so useful that we don't want to stop. We meet for 1 hour every other week. Sometimes there is optional prep in the form of reading, that participants can choose to do as homework outside that time.
+## The Club
+You can run your club in whatever way you want, but we recommend to meet for 1 hour every other week. You might want to agree as a group to read the code snippet beforehand, but you can also do this wihtin the hour.
 
-## The Collaboration
-Neontribe run the club and feed back to Felienne on a regular basis about what works and what doesn't. She comes up with potential exercises. We come up with potential exercises. We experiment and try to make the sessions useful and enlightening.
+## The Participants
+Participants should have had some exposure to code, but your group might include programming adjacent people like testers or scrum masters, we have seen examples where those people also got values out of the club. We have seen it work for groups diverse in other ways too (in terms of cognitive, formal training, experience, skills, style etc). 
 
-## The Expectation
-Participants should have some professional coding experience. Apart from that, the sessions should work for a diverse group (in terms of cognitive, formal training, experience, skills, style etc). The sessions use a variety of languages and styles of code. The key benefit should be increased ability to understand code when reading and a more sympathetic style of writing code to be read by others.
+## The Code
+We have seen different types of clubs, you might be interested in code form your own code base, maybe in one language, or select open source code in a variety of languages. In our experience, it does not matter all that much what code you pick. The key benefit is an increased ability to understand code when reading and a more sympathetic style of writing code to be read by others, which we think you get more form the process than form the code. Some people though join a club to also learn a new language as a byproduct, when you have a few of those in your group, you might want to sitck to one language.
 
-## The Stuff
-The directories in this repo contain the resources and wash-up notes from each session.
+## The Starting Package
+This repo contains exercises to use, as well as a Starting Package for the first three clubs, including:
+
+* Code yo use
+* A meeting agenga to use 
+* Exercises to use
+* A meeting to a retrospective after the clubs
