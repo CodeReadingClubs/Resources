@@ -23,14 +23,14 @@ Look at the code at a glance, really not more than 1 minute. Then try to answer 
 
 * What is the *second* think that you see? Why?
 
-* Are these two things (variables, classes, prorgramming concepts) related?
+* Are these two things (variables, classes, programming concepts) related?
 
 
 #### Discuss the results (10 mins)
 
 Discuss the results as a group. What lines of facts or concepts were chosen by everyone versus by only a few people?
 
-Reflect also on what kind of knowledge did you use in this exercise? Knowledge of the domain, of the progamming language? Of a framework? What knowledge do you think might be needed to better understand this code?
+Reflect also on what kind of knowledge did you use in this exercise? Knowledge of the domain, of the programming language? Of a framework? What knowledge do you think might be needed to better understand this code?
 
 ### Code structure
 
