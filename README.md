@@ -15,6 +15,6 @@ We have seen different types of clubs, you might be interested in code from your
 This repo contains exercises to use, as well as a Starting Package for the first three clubs, including:
 
 * Code to use
-* A meeting agenga to use 
+* A meeting agenda to use 
 * Exercises to use
 * A meeting to run a retrospective after the clubs
