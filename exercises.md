@@ -1,15 +1,13 @@
 This page contains a set of exercises which can be used in Code Reading Clubs. Of course, your club does not need to use all exercises, they are meant as a starting point. If you are trying out variants, do let us know!
-For now we have divided them into basic and advanced. Advanced exercises can be used in clube that have been running for a while, or when doing a second seccion on the same code snippet.
+For now we have divided them into basic and advanced. Advanced exercises can be used in clubs that have been running for a while, or when doing a second session on the same code snippet.
 
 ## Basic Exercises
 
 You will need:
 
-- two printed copies of the code for today's club
-- coloured paper and scissors 
-- acetate and something to write on it with
-- coloured pens, crayons or pencils
-- or: a tablet and tablet pen with a PDF of the code
+- a printed copy of the code for the club and coloured pens, crayons or pencils
+-or- 
+- a tablet and tablet pen with a PDF of the code, or other electronic means of scribbling on the code.
 
 ### First glance
 
@@ -21,16 +19,18 @@ Look at the code at a glance, really not more than 1 minute. Then try to answer 
 
 * What is the first thing that catches your eye? Why is that?
 
-* What is the *second* think that you see? Why?
+* What is the *second* thing that you see? Why?
 
 * Are these two things (variables, classes, programming concepts) related?
 
 
 #### Discuss the results (10 mins)
 
-Discuss the results as a group. What lines of facts or concepts were chosen by everyone versus by only a few people?
+* What lines or facts or concepts were chosen by everyone versus by only a few people?
 
-Reflect also on what kind of knowledge did you use in this exercise? Knowledge of the domain, of the programming language? Of a framework? What knowledge do you think might be needed to better understand this code?
+Reflect also on what kind of knowledge you used in this exercise:
+* Knowledge of the domain, of the programming language? Of a framework?
+* What knowledge do you think might be needed to better understand this code?
 
 ### Code structure
 
@@ -50,18 +50,16 @@ Instantiation
 * Then draw a link between classes and their instances
 
 #### Discuss the results (10 mins)
-1. What patterns are visible from the colors and links only?
-1. What parts of the code warrant more attention based on the colors?
+* What patterns are visible from the colors and links only?
+* What parts of the code warrant more attention based on the colors?
 
 ### Content
 
 #### All variable/class/method names (5 mins)
 
-Go through the code mechanically and create a list of all identifier names in the snippet. Of you have done the "examine structure" exercise before, this should be relatively quick and easy.
+As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short disussions to agree things.
 
 #### Discussion (10 mins)
-
-Discuss in the group:
 
 * What can we learn from these names?
 * Which names are related to each other, from the names only?
@@ -69,7 +67,9 @@ Discuss in the group:
 
 #### A random line (5 mins)
 
-Select a random line from the code in whatever way you like. Examine this line individually. What is the main idea of this line? What lines does it relate to and why?
+Select a random line from the code in whatever way you like. I can be helpful to randomly pick 3 line numbers and the facilitator choose from them, which they think will be most interesting to talk about; but surprisingly, even a blank line can generate some conversation!
+
+Examine this line individually. What is the main idea of this line? What lines does it relate to and why?
 
 #### Discussion (10 mins)
 
@@ -111,7 +111,7 @@ These exercises are more advanced, in the sense that you might need a bit more u
 
 #### Examine structure (5 mins)
 
-Use one of the basic exercises to examine the structure of the code (such as circle variables and link them), or reuse the notes from the previous club. Individuallt study the patterns and think about what they tell you. What direction does the code 'flow' in? What parts stand out for lack of, or access of links?
+Use one of the basic exercises to examine the structure of the code (such as circle variables and link them), or reuse the notes from the previous club. Individually study the patterns and think about what they tell you. What direction does the code 'flow' in? What parts stand out for lack of, or access of links?
 
 #### Discussion (10 mins)
 
