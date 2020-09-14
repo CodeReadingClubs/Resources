@@ -7,7 +7,7 @@ You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
 -or- 
-- a tablet and tablet pen with a PDF of the code, or other electronic means of scribbling on the code.
+- an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen)
 
 ### First glance
 
