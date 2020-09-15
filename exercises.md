@@ -111,7 +111,7 @@ These exercises are more advanced, in the sense that you might need a bit more u
 
 #### Examine structure (5 mins)
 
-This first exercise is meant as a recap of the first session on the code, and as a way to onboard people that might have missed the first session on this code session.
+This first exercise is meant as a recap of the first session on the code, and as a way to onboard people that might have missed the first session on this code snippet.
 
 Go back to your markings of the code where you examined the structure of the code (such as circle variables and link them), or reuse the notes from the previous club. Individually study the patterns and think about what they tell you. What direction does the code 'flow' in? What parts stand out for lack of, or access of links?
 
@@ -124,7 +124,7 @@ Go back to your markings of the code where you examined the structure of the cod
 
 #### Central thematic concepts (5 mins)
 
-Each participant gets 5 minutes to individually name the 5 most central concepts of the code. These could be names, themes, classes, or information found in comments. It is important to note that there are no right or wrong answers here! We are not looking for the right 5 concepts, we are together trying to learn from code and to get better at reading code.
+Each participant gets 5 minutes to individually name the 5 most central concepts of the code. These could be names, themes, classes, or information found in comments. It is important to note that there are no right or wrong answers here! We are not looking for the correct 5 concepts, we are together trying to practice reading code and gain insights into how each other people approach and understand reading code. We have found that one of the most important things people gain from the reading club is realising that people do not all comprehend and create code in the same way.
 
 #### Discussion (10 mins)
 
