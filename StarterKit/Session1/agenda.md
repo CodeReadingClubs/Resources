@@ -29,7 +29,7 @@ Take a few minutes to talk about your motivation for doing the club. This is imp
 
 The goal of this exercise is to practice to get a first impression of code and to act upon that.
 
-### (1 min) Independently - Look at the code at a glance
+### (1 min) Independently - Glance at the code
 
 It's important that is an immediate reaction, so really not more than 1 minute.
 

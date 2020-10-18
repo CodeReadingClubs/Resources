@@ -1,4 +1,4 @@
-# Code Reading Club agenda
+# Code Reading Club example agenda
 
 ## Reflection (5 mins)
 - Note a time the past 2 weeks when you used one of the techniques from the club in your work
@@ -45,11 +45,11 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 - identify differences and similarities between the groups findings and the existing
 
 
-## Wash up (5 mins)
+## Reflect (5 mins)
 - What worked well
 - What worked badly
 
 ## Follow up (2 weeks of elapsed time)
-- Identify code for next session, keaping in mind Wash up and Reflection information
+- Identify code for next session, keeping in mind Wash up and Reflection information
 
 

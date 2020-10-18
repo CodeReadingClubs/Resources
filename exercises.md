@@ -164,7 +164,7 @@ You might want to think consider the impact of the decisions this code on:
 #### Discussion (10 mins)
 
 - Consequences covered by many vs few
-- Different "ilities" chosed
+- Different "ilities" chosen
 - Pros of these decisions
 - Possible cons of these decisions
 
@@ -180,4 +180,3 @@ Each participant gets 5 minutes to individually understand the 'why' of the deci
 
 - Assumptions/alternatives covered by many vs few
 - Alternative solutions
-
