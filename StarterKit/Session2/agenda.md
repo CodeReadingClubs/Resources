@@ -1,6 +1,6 @@
-# Code Reading Club - Session 1 agenda
+# Code Reading Club - Session 2 agenda
 
-## TOTAL time (80 mins)
+## TOTAL time (75 mins)
 
 You will need:
 
@@ -12,18 +12,20 @@ You will need:
 
 Take a few minutes to talk about your motivation for doing the club. This is important because it will help you support each other and make it more likely that your group will feel that the club sessions have value for them.
 
-### (2 mins) Independently - Note down one thing about the club:
+### (2 mins) Independently - Reflect
 
-* that you are looking forward to or excited about
-* that you are worried or confused about
+Note a time the past few weeks when:
+* you used one of the techniques from the club in your work
+-or-
+* you used information learned about code in your work
+-or-
+* if you can't think of any, use this time to write down a hope or worry related to the club
+
 
 ### (3 mins) Together - Discuss
 
-* Give everyone a chance to read out their hopes and fears
-* Use the remaining time to discuss collectively what you want to get out of the club
-* Decide how long you want your sessoins to be and how often you want to run them
-* Decide if the same person will facilitate all of the sessions or if you want to take turns
-* Think about how to accomodate members of your group who might have varying levels of experience and confidence
+* Give everyone a chance to read out their experiences
+* Use the remaining time to discuss collectively
 
 ## First glance
 
@@ -73,6 +75,16 @@ Instantiation
 
 ## Content
 
+### (5 mins) Together - Note down all variable/class/method names
+
+As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short disussions to agree things.
+
+### (10 mins) Together - Discuss
+
+* What can we learn from these names?
+* Which names are related to each other, from the names only?
+* Are there names that are ambiguous when looked at without context?
+
 ### (10 mins) Independently - Identify most important lines
 
 Briefly discuss what it means to be important as a group (if you want to)
@@ -88,15 +100,6 @@ Discuss in the group:
 
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
-
-### (10 mnis) Independently - Summarize
-
-* try to write down the essence of the code in a few sentences
-
-### (10 mins) Together - Discuss
-
-* topics covered by many vs few
-* strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
 
 ## Reflect on the session
 If you have time, it's helpful to wrap up the session with a little reflection
