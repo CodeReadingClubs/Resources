@@ -95,13 +95,15 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 1. Independently write down the essence of the code in a few sentences
 
 #### Discussion (10 mins)
-- topics covered by many vs few
-- strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
+* topics covered by many vs few
+* strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
 
 #### Summarize in less than 10 sentences (10 mins)
-1. Create a summary together
-1. Compare the summary with the available documentation (inside and outside the code)
-- identify differences and similarities between the groups findings and the existing
+* Create a summary together
+
+#### Independently - homework?
+* Compare the summary with the available documentation (inside and outside the code)
+* Identify differences and similarities between the groups findings and the existing
 
 ## Advanced Exercises
 
