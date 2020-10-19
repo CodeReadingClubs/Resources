@@ -95,13 +95,15 @@ Take turns in the group, and let every member talk about the code for 30 seconds
 1. Independently write down the essence of the code in a few sentences
 
 #### Discussion (10 mins)
-- topics covered by many vs few
-- strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
+* topics covered by many vs few
+* strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
 
 #### Summarize in less than 10 sentences (10 mins)
-1. Create a summary together
-1. Compare the summary with the available documentation (inside and outside the code)
-- identify differences and similarities between the groups findings and the existing
+* Create a summary together
+
+#### Independently - homework?
+* Compare the summary with the available documentation (inside and outside the code)
+* Identify differences and similarities between the groups findings and the existing
 
 ## Advanced Exercises
 
@@ -164,7 +166,7 @@ You might want to think consider the impact of the decisions this code on:
 #### Discussion (10 mins)
 
 - Consequences covered by many vs few
-- Different "ilities" chosed
+- Different "ilities" chosen
 - Pros of these decisions
 - Possible cons of these decisions
 
@@ -180,4 +182,3 @@ Each participant gets 5 minutes to individually understand the 'why' of the deci
 
 - Assumptions/alternatives covered by many vs few
 - Alternative solutions
-
