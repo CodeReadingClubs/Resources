@@ -65,7 +65,7 @@ The goal of this exercise is to start to think about which lines in the code def
 
 #### Option 1
 
- Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying immportant lines exercises less intimidating.
+ Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying important lines exercises less intimidating.
 
 ##### All variable/class/method names (5 mins)
 

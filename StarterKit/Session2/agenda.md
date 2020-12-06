@@ -61,7 +61,7 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help! Digital annotation can take a bit longer than on paper. Leave time for your group members to settle on a technique that works for them.
 
-### (12 mins) Independently - Examine structure
+### (10 mins) Independently - Examine structure
 
 Variables
 * Go through the code and circle all variables in red
@@ -82,7 +82,7 @@ Instantiation
 * What parts of the code seem to warrant more attention?
 
 ## Content
-The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying immportant lines exercises less intimidating.
+The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying important lines exercises less intimidating.
 
 ### (5 mins) Together - Note down all variable/class/method names
 
