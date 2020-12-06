@@ -41,7 +41,7 @@ It's important that is an immediate reaction.
 
 ### (5 mins) Together - Discuss the results
 
-Talk about why things might have jumped out for different people.
+Talk about why things might have jumped out for different people. It might be tempting for some people to start talking about the big picture; try to steer discussion back to individual details, rather than summaries.
 
 * How do those initial observations help with deciding what to look at next?
 * What lines or facts or concepts were chosen by everyone versus by only a few people?
@@ -73,6 +73,7 @@ Instantiation
 
 * Did anyone have trouble deciding what constituted a variable, function or class?
 * What patterns are visible from the colors and links only?
+* How does the data flow through the code?
 * What parts of the code seem to warrant more attention?
 
 ## Content
