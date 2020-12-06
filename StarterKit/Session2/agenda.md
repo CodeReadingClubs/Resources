@@ -82,7 +82,7 @@ Instantiation
 * What parts of the code seem to warrant more attention?
 
 ## Content
-Todo The goal of this exercise
+The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying immportant lines exercises less intimidating.
 
 ### (5 mins) Together - Note down all variable/class/method names
 
