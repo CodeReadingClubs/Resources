@@ -1,8 +1,10 @@
 # Your first code reading club!
 
 * Set aside an hour and a half for this club. 
-* Your subsequent sessions can be shorter, but it's good to leave enough time to go through things in more detail wheh you first start.
+* Your subsequent sessions can be shorter, but it's good to leave enough time to go through things in more detail when you first start.
 * It's important to leave enough time for everyone to get involved and have an understanding.
+* The facilitator should familiarise themself with the [session 1 agenda](https://github.com/CodeReadingClubs/Resources/blob/trunk/StarterKit/Session1/agenda.md) before the session, but everyone else just needs to turn up.
+* It's best if the participants do not look at the code before the session, but they'll need to arrive with a copy (printed or digital) ready for marking up.
 
 ## Where the code.pdf came from
 
