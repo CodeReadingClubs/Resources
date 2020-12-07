@@ -11,5 +11,6 @@
 * It's best if the participants don't know anything about the code before the session starts.
 * It's often fun to do a big reveal of where the code came from, if it relies on a framework and even sometimes, what language it is.
 
-Info for facilitator:
+### Info for facilitator:
+
  This session 1 code is written in Swift for the messaging app Signal and can be found: [sinalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS/blob/master/Signal/src/Models/PhoneNumberValidator.swift)
