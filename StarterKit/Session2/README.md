@@ -8,3 +8,12 @@
 * The exercises are designed to be self contained, but in progressive order, so you can choose which one's to include in each session, but keep them in the same relative order.
 * Our [session 2 agenda](https://github.com/CodeReadingClubs/Resources/blob/trunk/StarterKit/Session2/agenda.md) does not include the Summary section from session one. That's because we often find an 'aha' moment happens at some point for everyone in the group anyway, and we like to make time for more interesting discussions about how we are understanding the code rather than what it is doing.
 * Remember, it's best if the participants do not look at the code before the session, but they'll need to arrive with a copy (printed or digital) ready for marking up.
+
+## Where the code.pdf came from
+
+* It's best if the participants don't know anything about the code before the session starts.
+* It's often fun to do a big reveal of where the code came from, if it relies on a framework and even sometimes, what language it is.
+
+### Info for facilitator:
+
+This session 2 code is written in javascript for the popular moment library and can be found: [moment/src/lib/create/from-anything.js](https://github.com/moment/moment/blob/52019f1dda47c3e598aaeaa4ac89d5a574641604/src/lib/create/from-anything.js)
