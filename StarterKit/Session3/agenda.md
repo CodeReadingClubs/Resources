@@ -6,9 +6,9 @@ You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
 
-    -or- 
+    -or-
 
-- an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen)
+- an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen or PDF annotation software)
 
 ## Why are we doing this?
 
@@ -17,6 +17,7 @@ Take a few minutes to think about times when you recalled something from the clu
 ### (2 mins) Independently - Reflect
 
 Note a time the past few weeks when:
+
 * you used one of the techniques from the club in your work
 
     -or-
@@ -58,19 +59,23 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 ## Code structure
 
-### (12 mins) Independently - Examine structure
 The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help! Digital annotation can take a bit longer than on paper. Leave time for your group members to settle on a technique that works for them.
 
+### (10 mins) Independently - Examine structure
+
 Variables
+
 * Go through the code and circle all variables in red
 * Then draw a link between variables and their uses
 
 Function / method calls
-* Go through the code and circle all methods in blue 
+
+* Go through the code and circle all methods in blue
 * Then draw a link between methods and their invocations
 
-Instantiation 
-* Go through the code and circle all instances of classes in green 
+Instantiation
+
+* Go through the code and circle all instances of classes in green
 * Then draw a link between classes and their instances
 
 ### (10 mins) Together - Discuss the results
@@ -80,13 +85,13 @@ Instantiation
 * How does the data flow through the code?
 * What parts of the code seem to warrant more attention?
 
-
 ## Content
-The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by looking in depth at a single random line. This is one method for starting to explore the syntax, style and intentions of the code. It can help make the identifying important lines exercises less intimidating.
+
+The goal of these exercises is to start to think about which lines in the code define its essence, have the biggest impact or need to be paid close attention to. Start by looking in depth at a single random line. This is one method for starting to explore the syntax, style and intentions of the code. It can help make the identifying important lines exercises less intimidating.
 
 #### (5 mins) Independently - consider a random line (everyone does the same line)
 
-Select a random line from the code in whatever way you like. I can be helpful to randomly pick 3 line numbers and the facilitator choose from them, which they think will be most interesting to talk about; but surprisingly, even a blank line can generate some conversation!
+Select a random line from the code in whatever way you like. It can be helpful to randomly pick 3 line numbers and have the facilitator choose from them, which they think will be most interesting to talk about; but surprisingly, even a blank line can generate some conversation!
 
 Examine this line individually. What is the main idea of this line? What lines does it relate to and why?
 
@@ -95,7 +100,7 @@ Examine this line individually. What is the main idea of this line? What lines d
 * What is the 'scope' of the random line? What part of the code was seen as related?
 * How does the line fit into the rest of the code base?
 
-### (10 mins) Independently - Identify most important lines
+### (8 mins) Independently - Identify most important lines
 
 Briefly discuss what it means to be important as a group (if you want to)
 
@@ -104,18 +109,19 @@ Briefly discuss what it means to be important as a group (if you want to)
 ### (10 mins) Together - Discuss
 
 Discuss in the group:
+
 * lines covered by many people?
 * lines named but not by a lot of people
-* Agree less than 10 of the most important lines
+* Agree less than 8 of the most important lines
 
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
 
-
 ## Reflect on the session
+
 If you have time, it's helpful to wrap up the session with a little reflection
 
 ### (5 mins) Together - note down things about the session
 
 * that went well or felt good
-* you want to try to do differenly next time because they didn't work or felt bad
+* you want to try to do differently next time because they didn't work or felt bad

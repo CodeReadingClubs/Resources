@@ -6,9 +6,9 @@ You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
 
-    -or- 
+    -or-
 
-- an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen)
+- an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen or PDF annotation software)
 
 ## Why are we doing this?
 
@@ -17,6 +17,7 @@ Take a few minutes to think about times when you recalled something from the clu
 ### (2 mins) Independently - Reflect
 
 Note a time the past few weeks when:
+
 * you used one of the techniques from the club in your work
 
     -or-
@@ -26,7 +27,6 @@ Note a time the past few weeks when:
     -or-
 
 * if you can't think of any, use this time to write down a hope or worry related to the club
-
 
 ### (3 mins) Together - Discuss
 
@@ -64,15 +64,18 @@ The goal of this exercise is to be a concrete thing to *do* when looking at new 
 ### (10 mins) Independently - Examine structure
 
 Variables
+
 * Go through the code and circle all variables in red
 * Then draw a link between variables and their uses
 
 Function / method calls
-* Go through the code and circle all methods in blue 
+
+* Go through the code and circle all methods in blue
 * Then draw a link between methods and their invocations
 
-Instantiation 
-* Go through the code and circle all instances of classes in green 
+Instantiation
+
+* Go through the code and circle all instances of classes in green
 * Then draw a link between classes and their instances
 
 ### (10 mins) Together - Discuss the results
@@ -83,19 +86,20 @@ Instantiation
 * What parts of the code seem to warrant more attention?
 
 ## Content
-The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying important lines exercises less intimidating.
+
+The goal of these exercises is to start to think about which lines in the code define its essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and its intentions. It can help make the identifying important lines exercises less intimidating.
 
 ### (5 mins) Together - Note down all variable/class/method names
 
-As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short disussions to agree things.
+As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short discussions to agree on things.
 
 ### (10 mins) Together - Discuss
 
 * What can we learn from these names?
-* Which names are related to each other, from the names only?
+* Which elements are related to each other, from the names only?
 * Are there names that are ambiguous when looked at without context?
 
-### (10 mins) Independently - Identify most important lines
+### (8 mins) Independently - Identify most important lines
 
 Briefly discuss what it means to be important as a group (if you want to)
 
@@ -104,17 +108,19 @@ Briefly discuss what it means to be important as a group (if you want to)
 ### (10 mins) Together - Discuss
 
 Discuss in the group:
+
 * lines covered by many people?
 * lines named but not by a lot of people
-* Agree less than 10 of the most important lines
+* Agree less than 8 of the most important lines
 
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
 
 ## Reflect on the session
+
 If you have time, it's helpful to wrap up the session with a little reflection
 
 ### (5 mins) Together - note down things about the session
 
 * that went well or felt good
-* you want to try to do differenly next time because they didn't work or felt bad
+* you want to try to do differently next time because they didn't work or felt bad

@@ -6,7 +6,7 @@ You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
 
-    -or- 
+    -or-
 
 - an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen or PDF annotation software)
 
@@ -23,9 +23,9 @@ Take a few minutes to talk about your motivation for doing the club. This is imp
 
 * Give everyone a chance to read out their hopes and fears
 * Use the remaining time to discuss collectively what you want to get out of the club
-* Decide how long you want your sessoins to be and how often you want to run them
+* Decide how long you want your sessions to be and how often you want to run them
 * Decide if the same person will facilitate all of the sessions or if you want to take turns
-* Think about how to accomodate members of your group who might have varying levels of experience and confidence
+* Think about how to accommodate members of your group who might have varying levels of experience and confidence
 
 ## First glance
 
@@ -58,15 +58,18 @@ The goal of this exercise is to be a concrete thing to *do* when looking at new 
 ### (12 mins) Independently - Examine structure
 
 Variables
+
 * Go through the code and circle all variables in red
 * Then draw a link between variables and their uses
 
 Function / method calls
-* Go through the code and circle all methods in blue 
+
+* Go through the code and circle all methods in blue
 * Then draw a link between methods and their invocations
 
-Instantiation 
-* Go through the code and circle all instances of classes in green 
+Instantiation
+
+* Go through the code and circle all instances of classes in green
 * Then draw a link between classes and their instances
 
 ### (10 mins) Together - Discuss the results
@@ -78,9 +81,9 @@ Instantiation
 
 ## Content
 
-The goal of this exercise is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to.
+The goal of this exercise is to start to think about which lines in the code define its essence, have the biggest impact or need to be paid close attention to.
 
-### (10 mins) Independently - Identify most important lines
+### (8 mins) Independently - Identify most important lines
 
 Briefly discuss what it means to be important as a group (if you want to)
 
@@ -89,6 +92,7 @@ Briefly discuss what it means to be important as a group (if you want to)
 ### (10 mins) Together - Discuss
 
 Discuss in the group:
+
 * lines covered by many people?
 * lines named but not by a lot of people
 * Agree less than 8 of the most important lines
@@ -116,4 +120,4 @@ If you have time, it's helpful to wrap up the session with a little reflection
 ### (5 mins) Together - note down things about the session
 
 * that went well or felt good
-* you want to try to do differenly next time because they didn't work or felt bad
+* you want to try to do differently next time because they didn't work or felt bad
