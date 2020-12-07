@@ -5,20 +5,26 @@
 You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
--or- 
+
+    -or- 
+
 - an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen)
 
 ## Why are we doing this?
 
-Take a few minutes to talk about your motivation for doing the club. This is important because it will help you support each other and make it more likely that your group will feel that the club sessions have value for them.
+Take a few minutes to think about times when you recalled something from the club. This is important because it will help you apply your new skills day-to-day if you hear how others are doing so. It also makes it easier for your group to see that the club sessions have value.
 
 ### (2 mins) Independently - Reflect
 
 Note a time the past few weeks when:
 * you used one of the techniques from the club in your work
--or-
+
+    -or-
+
 * you used information learned about code in your work
--or-
+
+    -or-
+
 * if you can't think of any, use this time to write down a hope or worry related to the club
 
 
@@ -29,21 +35,21 @@ Note a time the past few weeks when:
 
 ## First glance
 
-The goal of this exercise is to practice to get a first impression of code and to act upon that.
+The goal of this exercise is to practice to get a first impression of code and to act upon that. We all have different instincts and strategies for where to start when faced with a new piece of code. It doesn't matter how trivial you think the first and second things you noticed are.
 
-### (1 min) Independently - Look at the code at a glance
+### (1 min) Independently - Glance at the code
 
-It's important that is an immediate reaction, so really not more than 1 minute.
+It's important that is an immediate reaction.
 
-### (2 mins) Independently - Try to answer these questions:
+* Right away, note down the first thing that catches your eye.
+* Then note down the second thing that catches your eye.
+* Take the remainder of the minute to think about why you noticed those things first.
 
-* What is the first thing that catches your eye? Why is that?
-* What is the *second* thing that you see? Why?
-* Are these two things (variables, classes, programming concepts) related?
+### (5 mins) Together - Discuss the results
 
+Talk about why things might have jumped out for different people. It might be tempting for some people to start talking about the big picture; try to steer discussion back to individual details, rather than summaries.
 
-### (7 mins) Together - Discuss the results
-
+* How do those initial observations help with deciding what to look at next?
 * What lines or facts or concepts were chosen by everyone versus by only a few people?
 
 Reflect also on what kind of knowledge you used in this exercise:
@@ -53,14 +59,15 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 ## Code structure
 
-### (10 mins) Independently - Examine structure
-The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help!
+The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help! Digital annotation can take a bit longer than on paper. Leave time for your group members to settle on a technique that works for them.
 
-Color variables
+### (10 mins) Independently - Examine structure
+
+Variables
 * Go through the code and circle all variables in red
 * Then draw a link between variables and their uses
 
-Color method/function calls
+Function / method calls
 * Go through the code and circle all methods in blue 
 * Then draw a link between methods and their invocations
 
@@ -70,10 +77,13 @@ Instantiation
 
 ### (10 mins) Together - Discuss the results
 
+* Did anyone have trouble deciding what constituted a variable, function or class?
 * What patterns are visible from the colors and links only?
-* What parts of the code warrant more attention based on the colors?
+* How does the data flow through the code?
+* What parts of the code seem to warrant more attention?
 
 ## Content
+The goal of these exercises is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to. Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying important lines exercises less intimidating.
 
 ### (5 mins) Together - Note down all variable/class/method names
 
