@@ -13,4 +13,4 @@
 
 ### Info for facilitator:
 
- This session 1 code is written in Swift for the messaging app Signal and can be found: [sinalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS/blob/master/Signal/src/Models/PhoneNumberValidator.swift)
+ This session 1 code is written in Swift for the messaging app Signal and can be found: [sinalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS/blob/b68d8a3c8147feb2b69e7421a625608c44b98652/Signal/src/Models/PhoneNumberValidator.swift)
