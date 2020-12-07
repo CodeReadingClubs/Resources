@@ -1,3 +1,5 @@
+# Exercises
+
 This page contains a set of exercises which can be used in Code Reading Clubs. Of course, your club does not need to use all exercises, they are meant as a starting point. If you are trying out variants, do let us know!
 For now we have divided them into basic and advanced. Advanced exercises can be used in clubs that have been running for a while, and especially work well when doing a second code club using the same code snippet.
 
@@ -7,7 +9,7 @@ You will need:
 
 - a printed copy of the code for the club and coloured pens, crayons or pencils
 
-    -or- 
+    -or-
 
 - an electronic means of scribbling on a code PDF (e.g. a tablet and tablet pen or PDF annotation software)
 
@@ -39,18 +41,21 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 The goal of this exercise is to be a concrete thing to *do* when looking at new code for the first time. New code can be scary, doing something will help! Digital annotation can take a bit longer than on paper. Leave time for your group members to settle on a technique that works for them.
 
-#### (12 mins) Independently - Examine structure
+#### (10 mins) Independently - Examine structure
 
 Variables
+
 * Go through the code and circle all variables in red
 * Then draw a link between variables and their uses
 
 Function / method calls
-* Go through the code and circle all methods in blue 
+
+* Go through the code and circle all methods in blue
 * Then draw a link between methods and their invocations
 
-Instantiation 
-* Go through the code and circle all instances of classes in green 
+Instantiation
+
+* Go through the code and circle all instances of classes in green
 * Then draw a link between classes and their instances
 
 #### (10 mins) Together - Discuss the results
@@ -62,26 +67,27 @@ Instantiation
 
 ### Content
 
-The goal of this exercise is to start to think about which lines in the code define it's essence, have the biggest impact or need to be paid close attention to.
+The goal of these exercises is to start to think about which lines in the code define its essence, have the biggest impact or need to be paid close attention to.
 
 #### Option 1
 
- Start by examining the names of things. This is one method for discovering how the code fits together and it's intentions. It can help make the identifying important lines exercises less intimidating.
+Start by examining the names of things. This is one method for discovering how the code fits together and its intentions. It can help make the identifying important lines exercises less intimidating.
 
 ##### All variable/class/method names (5 mins)
 
-As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short disussions to agree things.
+As a group, go through the code mechanically and create a list of all identifier names in the snippet. This can be done with one person scribing while others call out. If you have done the "examine structure" exercise before, this should be relatively quick and easy; but sometimes, you will need short discussions to agree on things.
 
 ##### Discussion (10 mins)
 
 * What can we learn from these names?
-* Which names are related to each other, from the names only?
+* Which elements are related to each other, from the names only?
 * Are there names that are ambiguous when looked at without context?
 
 #### Option 2
+
 ##### A random line (5 mins)
 
-Select a random line from the code in whatever way you like. I can be helpful to randomly pick 3 line numbers and the facilitator choose from them, which they think will be most interesting to talk about; but surprisingly, even a blank line can generate some conversation!
+Select a random line from the code in whatever way you like. It can be helpful to randomly pick 3 line numbers and have the facilitator choose from them, which they think will be most interesting to talk about; but surprisingly, even a blank line can generate some conversation!
 
 Examine this line individually. What is the main idea of this line? What lines does it relate to and why?
 
@@ -92,7 +98,7 @@ Discuss in the group:
 * What is the 'scope' of the random line? What part of the code was seen as related?
 * How does the line fit into the rest of the code base?
 
-#### (10 mins) Independently - Identify most important lines
+#### (8 mins) Independently - Identify most important lines
 
 Briefly discuss what it means to be important as a group (if you want to)
 
@@ -101,9 +107,10 @@ Briefly discuss what it means to be important as a group (if you want to)
 #### (10 mins) Together - Discuss
 
 Discuss in the group:
+
 * lines covered by many people?
 * lines named but not by a lot of people
-* Agree less than 8 of the most important lines
+* Agree on less than 8 of the most important lines
 
 Take turns in the group, and let every member talk about the code for 30 seconds (or less/more, could also be one sentence each). Try to add new information and not repeat things that have been said, and repeat until people do not know new things anymore.
 [Save the last word for me protocol](https://lead.nwp.org/knowledgebase/save-the-last-word-for-me-protocol/)
@@ -122,12 +129,13 @@ The goal of this exercise is to think about the core purpose or function of this
 * strategies used to create the summary (e.g. method names, documentation, variable names, prior knowledge of system)
 
 #### Independently - homework?
+
 * Compare the summary with the available documentation (inside and outside the code)
-* Identify differences and similarities between the groups findings and the existing
+* Identify differences and similarities between the group's findings and the existing
 
 ## Advanced Exercises
 
-These exercises are more advanced, in the sense that you might need a bit more understanding of the code for these to make sense. This might be because the group is familiar with the code before the session, or because you are doing a second club on the same code snippet. In our experience, the first code club on one code snippet is mainly understanding what the code does, a second session typically goes deeper and sheds more light on the arcitectural patterns in the code.
+These exercises are more advanced, in the sense that you might need a bit more understanding of the code for these to make sense. This might be because the group is familiar with the code before the session, or because you are doing a second club on the same code snippet. In our experience, the first code club on one code snippet is mainly understanding what the code does, a second session typically goes deeper and sheds more light on the architectural patterns in the code.
 
 ### Code structure
 
@@ -140,7 +148,7 @@ Go back to your markings of the code where you examined the structure of the cod
 #### Discussion (10 mins)
 
 - Parts of the code covered by many vs few
-- Strategies used to decide 
+- Strategies used to decide
 
 ### Content
 
@@ -167,7 +175,8 @@ Each participant gets 5 minutes to individually name the 5 most central programm
 Each participant gets 5 minutes to individually understand the decisions that were visible in the code. Reexamine the code snippet and list decisions of the creator(s) of the code, for example a decision to use a certain design pattern or use a certain library or API.
 
 You might want to think about these questions:
-* What decisions were made in the creation of this code? 
+
+* What decisions were made in the creation of this code?
 
 #### Discussion (10 mins)
 
@@ -179,6 +188,7 @@ You might want to think about these questions:
 Each participant gets 5 minutes to individually understand the consequences of the decisions that were made. These could be the decisions you found yourself in the previous exercise or a decision someone else pointed out.
 
 You might want to think consider the impact of the decisions this code on:
+
 * readability
 * performance
 * extendability
