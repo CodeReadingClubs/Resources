@@ -13,6 +13,6 @@
 
 On of our groups was inspired by [yarn's choice to use prolog for constraints](https://yarnpkg.com/features/constraints) and we wanted to see what it was like.
 
-Usually we steer away from using example code in the reading sessions since the point of them is to practice reading production code in the wild (with all of its flaws); but for obscure languages, an example file can be the easiest to discuss. Getting your group through this session will prove that you are prepared to tackle anything.
+Usually we steer away from using example code in the reading sessions since the point of them is to practice reading production code in the wild (with all of its flaws); but for obscure languages, an example file can be the easiest to discuss. Getting your group through this session will prove that you are able to tackle anything.
 
 This session 3 code is written in prolog for for teaching logic in prolog and can be found: [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples/blob/4ec2de552bf6f70843af94bf29ddcec1e70d064a/children.pl)
