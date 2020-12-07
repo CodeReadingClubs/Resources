@@ -16,4 +16,4 @@
 
 ### Info for facilitator:
 
-This session 1 code is written in javascript for the popular moment library and can be found: [momoent/src/lib/create/from-anything.js](https://github.com/moment/moment/blob/develop/src/lib/create/from-anything.js)
+This session 2 code is written in javascript for the popular moment library and can be found: [momoent/src/lib/create/from-anything.js](https://github.com/moment/moment/blob/develop/src/lib/create/from-anything.js)
