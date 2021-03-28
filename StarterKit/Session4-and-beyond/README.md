@@ -8,8 +8,8 @@ Keep practicing with the Basic Exercises and when you feel ready, try out some o
 
 There is no bad choice - even html can be a conversation starter. Use this [pdf generator for github code](https://pdf-maker.netlify.app) or download one we made earlier:
 
-- [elm](code-snippets/code4.pdf) from [source]()
-- [java](code-snippets/code1.pdf) from [elasticsearch](https://github.com/elastic/elasticsearch/blob/94be9b471f6959ca5664a4a143809630a908f78e/libs/core/src/main/java/org/elasticsearch/common/collect/Tuple.java)
+- [elm](code-snippets/Main.elm/code.pdf) from [source](https://github.com/carwow/elm-slider/blob/1fa48f4f02ce5518589c084d0823880b3db5fb7a/examples/Main.elm)
+- [java](code-snippets/Tuple.java/code.pdf) from [elasticsearch](https://github.com/elastic/elasticsearch/blob/94be9b471f6959ca5664a4a143809630a908f78e/libs/core/src/main/java/org/elasticsearch/common/collect/Tuple.java)
 - [js](code-snippets/code2.pdf) from [source]()
 - [lua](code-snippets/code6.pdf) from [source]()
 - [prolog](code-snippets/code9.pdf) from [source]()
