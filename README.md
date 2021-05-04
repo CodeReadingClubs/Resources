@@ -25,4 +25,4 @@ This repo contains exercises to use, as well as a Starting Package for the first
 
 ## Get in touch
 
-hello@code-reading.org
+email: hello@code-reading.org
