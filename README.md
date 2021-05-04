@@ -25,4 +25,6 @@ This repo contains exercises to use, as well as a Starting Package for the first
 
 ## Get in touch
 
+You can reach Katja and Felienne on:
+
 hello@code-reading.org
