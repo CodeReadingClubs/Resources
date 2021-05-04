@@ -22,3 +22,7 @@ This repo contains exercises to use, as well as a Starting Package for the first
 * A meeting agenda to use
 * Exercises to use
 * A meeting to run a retrospective after the clubs
+
+## Get in touch
+
+hello@code-reading.org
