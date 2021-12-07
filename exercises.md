@@ -19,7 +19,7 @@ The goal of this exercise is to practice to get a first impression of code and t
 
 #### (1 min) Independently - Glance at the code
 
-It's important that is an immediate reaction.
+It's important that what you use is your  immediate reaction, don't overthink it!
 
 * Right away, note down the first thing that catches your eye.
 * Then note down the second thing that catches your eye.
@@ -36,6 +36,27 @@ Reflect also on what kind of knowledge you used in this exercise:
 
 * Knowledge of the domain, of the programming language? Of a framework?
 * What knowledge do you think might be needed to better understand this code?
+
+### Syntax knowledge
+
+The goal of this exercise is to practice to make sure everyone in club is familiar with syntactic elements of the code. 
+
+#### (5 min) Independently - Examine syntax
+
+Look at the code and examine syntactic elements. Do you know the meaning of all elements? You can use these questions as a guide:
+
+* Is it clear to you what the role of each block in the code is (function, condition, repetition etc)?
+* Do you recognize all operators?
+* Take the remainder of the time to think about what other things are unfamiliar.
+
+#### (5 mins) Together - Discuss the results
+
+Talk about unfamiliar constructs:
+
+* Were there constructs that were unfamiliar? If so:
+	* Are there other members of the group that know the meaning? 
+	* If not, can you look up the constructs?
+* Why are the syntactic constructs unfamiliar? Are they ideosyncratic to this language or code base?
 
 ### Code structure
 
