@@ -2,6 +2,8 @@
 
 ## Things to discuss before 1st session
 - Who's invited?
+- How will participants see the instructions for each exercise
+- How will participants know how much time is left in each section
 - How will participants take notes
 - How will participants share thoughts
 - Remote or in person
