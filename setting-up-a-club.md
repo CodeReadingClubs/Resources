@@ -7,6 +7,9 @@
 - Remote or in person
 - Annotating code on paper or in annotation tool or on tablet
 - What code to use
+- Who will facilitate
 
-## Things to talk about at 1st session
+## Things to talk about at end of 1st session
 - Why are we doing this?
+- How often & how long
+- Same code next session?
