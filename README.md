@@ -8,7 +8,7 @@ You can run your club in whatever way you want, but we recommend to meet for 1 h
 
 ## The Participants
 
-Participants should have had some exposure to code, but your group might include programming adjacent people like testers or scrum masters, we have seen examples where those people also got value out of the club. We have seen it work for groups diverse in other ways too (in terms of cognitive, formal training, experience, skills, style etc). 
+Participants should have had some exposure to code, but your group might include programming adjacent people like testers or scrum masters, we have seen examples where those people also got value out of the club. We have seen it work for groups diverse in other ways too (in terms of cognitive, formal training, experience, skills, style etc).
 
 ## The Code
 
@@ -25,4 +25,4 @@ This repo contains exercises to use, as well as a Starting Package for the first
 
 ## Get in touch
 
-hello@code-reading.org
+hello@codereading.club

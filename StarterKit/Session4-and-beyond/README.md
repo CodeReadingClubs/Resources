@@ -22,4 +22,4 @@ There is no bad choice - even html can be a conversation starter. Use this [pdf 
 ## If you are finding the sessions beneficial, get in touch and spread the word
 
 - Invite some developers from outside your group or organisation to your club
-- [Let us know](mailto:hello@code-reading.org) how you're finding it or if you have any ideas that will help make these clubs more beneficial for everyone.
+- [Let us know](mailto:hello@codereading.club) how you're finding it or if you have any ideas that will help make these clubs more beneficial for everyone.
